@@ -23,7 +23,7 @@
 15. verify changes using ``` cat /etc/hosts ```
 16. Enable tunnel running command : ``` minikube tunnel ```
 17. Then call url in browser : http://ytlecture.com/data
-18. Hurray :clap:  you have successfully deployed your first spring rest api on Kubernetes.
+18. Successfully deployed 
 19. Stop minikube using : ``` minikube stop ``` 
 
     
